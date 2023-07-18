@@ -1,5 +1,3 @@
-# Antonio
-Mi repositorio personal
 
 <h1 align="center">Hi 👋, I'm Antonio Garcia Espinoza</h1>
 <h3 align="center">A passionate research from Mexico</h3>
